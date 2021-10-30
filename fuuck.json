@@ -1,0 +1,10 @@
+{
+  "packages": [
+    "got", 
+    "lowdb", 
+    "imagemin", 
+    "fetch-blob",
+    "node-fetch",
+    "tempy"
+  ]
+}
